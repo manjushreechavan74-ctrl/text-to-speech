@@ -1,4 +1,4 @@
-# 🎙️ Text-to-Speech Application
+#  Text-to-Speech Application
 
 A full-stack web-based Text-to-Speech (TTS) application that converts written text into natural-sounding speech.
 
@@ -8,7 +8,7 @@ This project is implemented using **React.js + Python Flask + SQLite + Edge TTS 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The Text-to-Speech Application provides an easy way to convert written content into spoken audio.
 
@@ -30,7 +30,7 @@ The project follows a full-stack architecture where the React frontend communica
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Reading large amounts of text can be difficult for some users. A Text-to-Speech application provides an alternative way to consume written information through audio.
 
@@ -47,7 +47,7 @@ The application provides a simple interface where users can:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
@@ -67,7 +67,7 @@ The main objectives of this project are:
 
 ---
 
-# ✨ Features
+#  Features
 
 ## 1. Text Input
 
@@ -222,7 +222,7 @@ The application handles different types of invalid requests and failures, includ
 
 ---
 
-# 🏗️ Application Architecture
+#  Application Architecture
 
 ```text
                     ┌────────────────────┐
@@ -309,7 +309,7 @@ The application handles different types of invalid requests and failures, includ
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 text-to-speech/
@@ -378,7 +378,7 @@ text-to-speech/
 
 ---
 
-# 🔄 Application Flow
+#  Application Flow
 
 ```text
 User
@@ -419,7 +419,7 @@ React Frontend
 
 ---
 
-# 🔐 Authentication Flow
+#  Authentication Flow
 
 ```text
 User Registration
@@ -469,7 +469,7 @@ Authorization: Bearer <access_token>
 
 ---
 
-# 🗄️ Database Schema
+#  Database Schema
 
 The application uses SQLite with SQLAlchemy.
 
@@ -514,7 +514,7 @@ created_at      DATETIME
 
 ---
 
-# 🌐 API Documentation
+#  API Documentation
 
 Base URL:
 
@@ -591,7 +591,7 @@ Successful response:
 
 ---
 
-# 🎙️ Text-to-Speech APIs
+#  Text-to-Speech APIs
 
 ## Generate Speech
 
@@ -662,7 +662,7 @@ Response:
 
 ---
 
-# 📜 History APIs
+#  History APIs
 
 ## Get Speech History
 
@@ -684,7 +684,7 @@ Authentication required.
 
 ---
 
-# ⭐ Favorites APIs
+#  Favorites APIs
 
 ## Get Favorites
 
@@ -727,7 +727,7 @@ Authentication required.
 
 ---
 
-# 📊 HTTP Status Codes
+#  HTTP Status Codes
 
 The API uses appropriate HTTP status codes.
 
@@ -743,7 +743,7 @@ The API uses appropriate HTTP status codes.
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 ## Prerequisites
 
@@ -756,7 +756,7 @@ Make sure the following are installed:
 
 ---
 
-# 🚀 Backend Setup
+#  Backend Setup
 
 Open PowerShell and navigate to the backend:
 
@@ -796,7 +796,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 💻 Frontend Setup
+#  Frontend Setup
 
 Open another terminal.
 
@@ -826,7 +826,7 @@ http://localhost:5173
 
 ---
 
-# 🔑 Environment Variables
+#  Environment Variables
 
 Sensitive configuration should not be committed to GitHub.
 
@@ -909,7 +909,7 @@ Test cases include:
 
 ---
 
-# 🔒 Security
+#  Security
 
 The project follows basic security practices:
 
@@ -925,7 +925,7 @@ The project follows basic security practices:
 
 ---
 
-# 📦 Git and GitHub
+# Git and GitHub
 
 The project uses Git for version control.
 
@@ -946,7 +946,7 @@ These files are excluded through `.gitignore`.
 
 ---
 
-# 🌱 Future Enhancements
+# Future Enhancements
 
 Possible future improvements include:
 
@@ -967,7 +967,7 @@ Possible future improvements include:
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 Through this project, the following concepts were practiced:
 
@@ -991,7 +991,7 @@ Through this project, the following concepts were practiced:
 
 ---
 
-# 📋 Project Level
+# Project Level
 
 This project follows the **Level 2 – Intermediate** version of the Text-to-Speech application.
 
@@ -1010,7 +1010,7 @@ This project follows the **Level 2 – Intermediate** version of the Text-to-Spe
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Manjushree**
 
