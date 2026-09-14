@@ -222,6 +222,36 @@ The application handles different types of invalid requests and failures, includ
 
 ---
 
+# 📸 Screenshots
+
+## Login
+
+![Login Page](screenshots/login.png)
+
+## Registration
+
+![Registration Page](screenshots/register.png)
+
+## Text-to-Speech
+
+![Text-to-Speech](screenshots/text-to-speech.png)
+
+## Voice Selection
+
+![Voice Selection](screenshots/voice-selection.png)
+
+## Generated Audio
+
+![Audio Player](screenshots/audio-player.png)
+
+## Speech History
+
+![Speech History](screenshots/history.png)
+
+## Favorites
+
+![Favorites](screenshots/favorites.png)
+
 #  Application Architecture
 
 ```text
